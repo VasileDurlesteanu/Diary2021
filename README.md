@@ -1,5 +1,12 @@
 # Diary2021
 
+### 27th of June
+- Create Strings using Template Literals
+- Write Concise Object Literal Declarations Using Object Property Shorthand
+- Write Concise Declarative Functions with ES6
+- Use class Syntax to Define a Constructor Function
+- Use getters and setters to Control Access to an Object
+
 ### 23rd of June, solved the following tasks from ES6, freeCodeCamp:
 - Use the Rest Parameter with Function Parameters
 - Use the Spread Operator to Evaluate Arrays In-Place
