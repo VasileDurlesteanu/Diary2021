@@ -1,5 +1,17 @@
 # Diary2021
 
+### 28th of June
+- Create a Module Script
+- Use export to Share a Code Block
+- Reuse JavaScript Code Using import
+- Use * to Import Everything from a File
+- Create an Export Fallback with export default
+- Import a Default Export
+- Create a JavaScript Promise
+- Complete a Promise with resolve and reject
+- Handle a Fulfilled Promise with then
+- Handle a Rejected Promise with catch
+
 ### 27th of June
 - Create Strings using Template Literals
 - Write Concise Object Literal Declarations Using Object Property Shorthand
