@@ -1,5 +1,11 @@
 # Diary2021
 
+### 30th of June
+- Check For Mixed Grouping of Characters
+- Reuse Patterns Using Capture Groups
+- Use Capture Groups to Search and Replace
+- Remove Whitespace from Start and End
+
 ### 29th of June
 - Using the Test Method
 - Match Literal Strings
