@@ -1,5 +1,15 @@
 # Diary2021
 ### 1st of July
+
+#### Basic Data Structures
+- Use an Array to Store a Collection of Data
+- Access an Array's Contents Using Bracket Notation
+- Add Items to an Array with push() and unshift()
+- Remove Items from an Array with pop() and shift()
+- Remove Items Using splice()
+- Add Items Using splice()
+- Copy Array Items Using slice()
+
 #### Debugging 
 - Use the JavaScript Console to Check the Value of a Variable
 - Understanding the Differences between the freeCodeCamp and Browser Console
@@ -13,15 +23,6 @@
 - Catch Off By One Errors When Using Indexing
 - Use Caution When Reinitializing Variables Inside a Loop
 - Prevent Infinite Loops with a Valid Terminal Condition
-
-#### Basic Data Structures
-- Use an Array to Store a Collection of Data
-- Access an Array's Contents Using Bracket Notation
-- Add Items to an Array with push() and unshift()
-- Remove Items from an Array with pop() and shift()
-- Remove Items Using splice()
-- Add Items Using splice()
-- Copy Array Items Using slice()
 
 ### 30th of June
 - Check For Mixed Grouping of Characters
