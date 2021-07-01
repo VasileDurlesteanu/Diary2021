@@ -1,4 +1,27 @@
 # Diary2021
+### 1st of July
+#### Debugging 
+- Use the JavaScript Console to Check the Value of a Variable
+- Understanding the Differences between the freeCodeCamp and Browser Console
+- Use typeof to Check the Type of a Variable
+- Catch Misspelled Variable and Function Names
+- Catch Unclosed Parentheses, Brackets, Braces and Quotes
+- Catch Mixed Usage of Single and Double Quotes
+- Catch Use of Assignment Operator Instead of Equality Operator
+- Catch Missing Open and Closing Parenthesis After a Function Call
+- Catch Arguments Passed in the Wrong Order When Calling a Function
+- Catch Off By One Errors When Using Indexing
+- Use Caution When Reinitializing Variables Inside a Loop
+- Prevent Infinite Loops with a Valid Terminal Condition
+
+#### Basic Data Structures
+- Use an Array to Store a Collection of Data
+- Access an Array's Contents Using Bracket Notation
+- Add Items to an Array with push() and unshift()
+- Remove Items from an Array with pop() and shift()
+- Remove Items Using splice()
+- Add Items Using splice()
+- Copy Array Items Using slice()
 
 ### 30th of June
 - Check For Mixed Grouping of Characters
