@@ -1,4 +1,11 @@
 # Diary2021
+### 2nd of July
+- Copy an Array with the Spread Operator
+- Combine Arrays with the Spread Operator
+- Check For The Presence of an Element With indexOf()
+- Iterate Through All an Array's Items Using For Loops
+
+
 ### 1st of July
 
 #### Basic Data Structures
