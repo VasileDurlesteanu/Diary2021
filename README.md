@@ -1,4 +1,15 @@
 # Diary2021
+
+### 3rd of July
+
+- Create complex multi-dimensional arrays
+- Add Key-Value Pairs to JavaScript Objects
+- Modify an Object Nested Within an Object
+- Access Property Names with Bracket Notation
+- Use the delete Keyword to Remove Object Properties
+- Check if an Object has a Property
+- Iterate Through the Keys of an Object with a for...in Statement
+
 ### 2nd of July
 - Copy an Array with the Spread Operator
 - Combine Arrays with the Spread Operator
