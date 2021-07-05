@@ -1,5 +1,20 @@
 # Diary2021
 
+### 5th of July
+
+- Convert Celsius to Fahrenheit
+- Reverse a String
+- Factorialize a Number
+- Find the Longest Word in a String
+- Return Largest Numbers in Arrays
+#### Basic Algorithm Scripting
+
+
+
+- Generate an Array of All Object Keys with Object.keys()
+- Modify an Array Stored in an Object
+
+
 ### 3rd of July
 
 - Create complex multi-dimensional arrays
