@@ -1,5 +1,13 @@
 # Diary2021
 
+### 6th of July
+
+- Confirm the Ending
+- Repeat a String Repeat a String
+- Truncate a String
+- Finders Keepers
+- Boo who
+
 ### 5th of July
 
 - Convert Celsius to Fahrenheit
