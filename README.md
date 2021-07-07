@@ -1,5 +1,9 @@
 # Diary2021
 
+### 7th of July
+- Slice and Splice
+- Falsy Bouncer
+
 ### 6th of July
 
 - Confirm the Ending
