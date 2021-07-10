@@ -1,5 +1,11 @@
 # Diary2021
 
+### 10th of July
+- Title Case a Sentence
+- Where do I Belong
+- Mutations
+- Chunky Monkey
+
 ### 7th of July
 - Slice and Splice
 - Falsy Bouncer
