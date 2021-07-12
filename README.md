@@ -1,5 +1,10 @@
 # Diary2021
 
+### 12th of July
+## Functional Programming
+- Learn About Functional Programming
+- Understand Functional Programming Terminology
+
 ### 10th of July
 ## Object Oriented Programming
 - Create a Basic JavaScript Object
