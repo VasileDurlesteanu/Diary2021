@@ -1,5 +1,14 @@
 # Diary2021
 
+### 13th of July
+- Understand the Hazards of Using Imperative Code
+- Avoid Mutations and Side Effects Using Functional Programming
+- Pass Arguments to Avoid External Dependence in a Function
+- Refactor Global Variables Out of Functions
+- Use the map Method to Extract Data from an Array
+- Implement map on a Prototype
+
+
 ### 12th of July
 ## Functional Programming
 - Learn About Functional Programming
