@@ -1,7 +1,7 @@
 # Diary2021
 
 ### 15th of July 
-##Intermediate Algorithm Scripting
+## Intermediate Algorithm Scripting
 
 - Sum All Numbers in a Range
 - Diff Two Arrays
