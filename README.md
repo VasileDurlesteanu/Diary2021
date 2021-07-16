@@ -1,5 +1,14 @@
 # Diary2021
 
+### 16th of July
+## JavaScript Algorithms and Data Structures Projects
+- Palindrome Checker
+- Roman Numeral Converter
+- Caesars Cipher
+- Telephone Number Validator
+- Cash Register
+
+
 ### 15th of July 
 ## Intermediate Algorithm Scripting
 
