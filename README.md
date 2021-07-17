@@ -2,7 +2,7 @@
 
 # Certification Link:
 
-- 
+- https://www.freecodecamp.org/certification/vasiled/javascript-algorithms-and-data-structures
 
 ### 16th of July
 ## JavaScript Algorithms and Data Structures Projects
