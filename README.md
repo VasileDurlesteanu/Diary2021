@@ -1,5 +1,9 @@
 # Diary2021
 
+# Certification Link:
+
+- 
+
 ### 16th of July
 ## JavaScript Algorithms and Data Structures Projects
 - Palindrome Checker
